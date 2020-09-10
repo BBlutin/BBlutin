@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm BBlutin</h1>
 <h3 align="center">A passionate developer from France</h3>
 
+[![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)][twitch]
+[![Discord](https://img.shields.io/discord/722431431086964756?label=Discord&logo=Discord)][discord]
 ---
 ## I'm a Developer, and Musician
 
@@ -47,3 +49,6 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>  
 <img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="30" height="30"/>  
 </p>
+
+[discord]: https://discord.gg/VMYUXDG
+[twitch]: https://www.twitch.tv/notBBlutin
