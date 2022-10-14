@@ -6,15 +6,18 @@
 ---
 ## I'm a Developer, and Musician
 
-- 💡 I currently focus myself on **Web and FiveM development**
+- 💡 I currently focus myself on **Web development** and **management**
 
-- 👨‍💻 I work as System Admin by **Mercedes France**
+- 👨‍💻 I work as **IT Project Manager**.
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently improving **JavaScript** especially **ReactJS**
 
 - 💬 You can ask me about **Network, Dev, and Music**
 
-- 🎵 I play **Drums** and i love **Rock and House** music
+- 🎵 I play **Drums** and i love **Rock, Jazz and House** music
+
+
+My personal website : https://tfritschy.dev
 ---
 
 
