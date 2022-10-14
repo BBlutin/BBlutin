@@ -25,7 +25,8 @@ My personal website : https://tfritschy.dev
 
 - Web & Database :
 <p align="left">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/nextdotjs.svg" />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/javascript.svg'>
+
 <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="25"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
