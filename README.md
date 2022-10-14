@@ -16,8 +16,8 @@
 
 - 🎵 I play **Drums** and i love **Rock, Jazz and House** music
 
-
-###My personal website : https://tfritschy.dev
+---
+### My personal website : https://tfritschy.dev
 ---
 
 
